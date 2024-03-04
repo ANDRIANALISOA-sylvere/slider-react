@@ -1,14 +1,11 @@
-body
-{
-    margin : 0;
-    padding : 0;
-    background-color : rgb(93, 108, 172);
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(93, 108, 172);
 }
-.icone
-{
-    cursor: pointer !important;
+.icone {
+  cursor: pointer !important;
 }
-.icone:hover
-{
-    opacity : 0.5 !important;
+.icone:hover {
+  opacity: 0.5 !important;
 }
